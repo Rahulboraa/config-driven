@@ -81,6 +81,3 @@ Extensible cell renderer system.
 
 **Zustand state**
 Avoid unnecessary re-renders.
-
-**Strict TypeScript**
-No `any` used anywhere.
